@@ -224,7 +224,6 @@ display: flex;
 #clone-info-wind{
     position: absolute;
     transform: translateY(-100%);
-    background: seagreen;
     /* overflow: hidden; */
 
 }
